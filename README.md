@@ -91,7 +91,7 @@ Here is an example of how to use it:
 
 output:
 
-![output](/first-project/public/output.png "Text to show on mouseover")
+![output](/public/output.png "Text to show on mouseover")
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
@@ -162,4 +162,4 @@ Try changing the HTML content and save the file.
 
 ## For this repository project output:
 
-![output-2](/first-project/public/image.png)
+![output-2](/public/image.png)
