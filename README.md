@@ -70,7 +70,7 @@ Include three CDN's in your HTML file:
      </html>
 
 # output :
-![alt text](/first-project/public/image1.png)
+![alt text](/public/image1.png)
 
 ## Learning by Examples
 Our "Show React" tool makes it easy to demonstrate React. It shows both the code and the result.
